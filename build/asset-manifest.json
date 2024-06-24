@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fe8c44f.css",
+    "main.css": "/static/css/main.7bc4b452.css",
     "main.js": "/static/js/main.57592916.js",
     "static/js/206.0df7f3f4.chunk.js": "/static/js/206.0df7f3f4.chunk.js",
     "static/media/confetti.gif": "/static/media/confetti.7c0c557e1222b6d18b66.gif",
@@ -34,7 +34,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.4fe8c44f.css",
+    "static/css/main.7bc4b452.css",
     "static/js/main.57592916.js"
   ]
 }
