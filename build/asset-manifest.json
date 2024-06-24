@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7bc4b452.css",
-    "main.js": "/static/js/main.57592916.js",
+    "main.js": "/static/js/main.04234721.js",
     "static/js/206.0df7f3f4.chunk.js": "/static/js/206.0df7f3f4.chunk.js",
     "static/media/confetti.gif": "/static/media/confetti.7c0c557e1222b6d18b66.gif",
     "static/media/book_bg.png": "/static/media/book_bg.b0bd7d0bf11002072ffa.png",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.7bc4b452.css",
-    "static/js/main.57592916.js"
+    "static/js/main.04234721.js"
   ]
 }
